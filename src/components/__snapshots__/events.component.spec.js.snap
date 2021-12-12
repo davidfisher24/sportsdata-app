@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Events List Component matches snapshot 1`] = `
+<div>
+  <div>
+    <div
+      class="list row"
+    >
+      <div
+        class="col-md-8"
+      >
+        <h1
+          class="h4"
+        >
+          Events List
+          <span
+            data-testid="sports-title"
+          >
+             - 
+            Football
+          </span>
+        </h1>
+        <ul
+          class="list-group"
+        >
+          <a
+            href="/sports/1/events/1"
+          >
+            <li
+              class="list-group-item d-flex justify-content-between align-items-center"
+            >
+              Real Madrid vs Barcelona
+            </li>
+          </a>
+          <a
+            href="/sports/1/events/2"
+          >
+            <li
+              class="list-group-item d-flex justify-content-between align-items-center"
+            >
+              Liverpool vs Arsenal
+            </li>
+          </a>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+`;

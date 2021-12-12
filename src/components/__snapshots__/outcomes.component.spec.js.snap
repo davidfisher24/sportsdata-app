@@ -1,0 +1,106 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Outcomes List Component matches snapshot 1`] = `
+<div>
+  <div>
+    <div
+      class="list row"
+    >
+      <div
+        class="col-md-8"
+      >
+        <h1
+          class="h4"
+        >
+          Outcomes List
+          <span
+            data-testid="event-title"
+          >
+             - 
+            Real Madrid vs Barcelona
+          </span>
+        </h1>
+        <ul
+          class="list-group"
+        >
+          <div
+            class="list-group-item list-group-item-action flex-column align-items-start"
+          >
+            <div
+              class="d-flex w-100 justify-content-between"
+            >
+              <h5
+                class="mb-1"
+              />
+              <small>
+                5/4
+              </small>
+            </div>
+            <p
+              class="mb-1"
+              data-testid="key-dimension"
+            >
+              Draw
+            </p>
+            <small>
+              5/4
+               - 
+              1.2
+            </small>
+          </div>
+          <div
+            class="list-group-item list-group-item-action flex-column align-items-start"
+          >
+            <div
+              class="d-flex w-100 justify-content-between"
+            >
+              <h5
+                class="mb-1"
+              />
+              <small>
+                1/2
+              </small>
+            </div>
+            <p
+              class="mb-1"
+              data-testid="key-dimension"
+            >
+              Home
+            </p>
+            <small>
+              1/2
+               - 
+              0.5
+            </small>
+          </div>
+          <div
+            class="list-group-item list-group-item-action flex-column align-items-start"
+          >
+            <div
+              class="d-flex w-100 justify-content-between"
+            >
+              <h5
+                class="mb-1"
+              />
+              <small>
+                6/1
+              </small>
+            </div>
+            <p
+              class="mb-1"
+              data-testid="key-dimension"
+            >
+              Away
+            </p>
+            <small>
+              6/1
+               - 
+              6
+            </small>
+          </div>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+`;
